@@ -1,0 +1,17 @@
+.login{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.loginForm{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.loginForm h1{
+    align-self: center;
+}
+.submitButton{
+    width: 100px;
+}
